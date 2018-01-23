@@ -1,0 +1,932 @@
+"participant","year","ratification"
+"Argentina",1981,1
+"Argentina",1982,1
+"Argentina",1983,1
+"Argentina",1984,1
+"Argentina",1985,1
+"Argentina",1986,1
+"Argentina",1987,1
+"Argentina",1988,1
+"Argentina",1989,1
+"Argentina",1990,1
+"Argentina",1991,1
+"Argentina",1992,1
+"Argentina",1993,1
+"Argentina",1994,1
+"Argentina",1995,1
+"Argentina",1996,1
+"Argentina",1997,1
+"Argentina",1998,1
+"Argentina",1999,1
+"Australia",1981,1
+"Australia",1982,1
+"Australia",1983,1
+"Australia",1984,1
+"Australia",1985,1
+"Australia",1986,1
+"Australia",1987,1
+"Australia",1988,1
+"Australia",1989,1
+"Australia",1990,1
+"Australia",1991,1
+"Australia",1992,1
+"Australia",1993,1
+"Australia",1994,1
+"Australia",1995,1
+"Australia",1996,1
+"Australia",1997,1
+"Australia",1998,1
+"Australia",1999,1
+"Belarus",1981,1
+"Belarus",1982,1
+"Belarus",1983,1
+"Belarus",1984,1
+"Belarus",1985,1
+"Belarus",1986,1
+"Belarus",1987,1
+"Belarus",1988,1
+"Belarus",1989,1
+"Belarus",1990,1
+"Belarus",1991,1
+"Belarus",1992,1
+"Belarus",1993,1
+"Belarus",1994,1
+"Belarus",1995,1
+"Belarus",1996,1
+"Belarus",1997,1
+"Belarus",1998,1
+"Belarus",1999,1
+"Belgium",1981,1
+"Belgium",1982,1
+"Belgium",1983,1
+"Belgium",1984,1
+"Belgium",1985,1
+"Belgium",1986,1
+"Belgium",1987,1
+"Belgium",1988,1
+"Belgium",1989,1
+"Belgium",1990,1
+"Belgium",1991,1
+"Belgium",1992,1
+"Belgium",1993,1
+"Belgium",1994,1
+"Belgium",1995,1
+"Belgium",1996,1
+"Belgium",1997,1
+"Belgium",1998,1
+"Belgium",1999,1
+"Bolivia (Plurinational State of)",1981,1
+"Bolivia (Plurinational State of)",1982,1
+"Bolivia (Plurinational State of)",1983,1
+"Bolivia (Plurinational State of)",1984,1
+"Bolivia (Plurinational State of)",1985,1
+"Bolivia (Plurinational State of)",1986,1
+"Bolivia (Plurinational State of)",1987,1
+"Bolivia (Plurinational State of)",1988,1
+"Bolivia (Plurinational State of)",1989,1
+"Bolivia (Plurinational State of)",1990,1
+"Bolivia (Plurinational State of)",1991,1
+"Bolivia (Plurinational State of)",1992,1
+"Bolivia (Plurinational State of)",1993,1
+"Bolivia (Plurinational State of)",1994,1
+"Bolivia (Plurinational State of)",1995,1
+"Bolivia (Plurinational State of)",1996,1
+"Bolivia (Plurinational State of)",1997,1
+"Bolivia (Plurinational State of)",1998,1
+"Bolivia (Plurinational State of)",1999,1
+"Brazil",1981,1
+"Brazil",1982,1
+"Brazil",1983,1
+"Brazil",1984,1
+"Brazil",1985,1
+"Brazil",1986,1
+"Brazil",1987,1
+"Brazil",1988,1
+"Brazil",1989,1
+"Brazil",1990,1
+"Brazil",1991,1
+"Brazil",1992,1
+"Brazil",1993,1
+"Brazil",1994,1
+"Brazil",1995,1
+"Brazil",1996,1
+"Brazil",1997,1
+"Brazil",1998,1
+"Brazil",1999,1
+"Canada",1981,1
+"Canada",1982,1
+"Canada",1983,1
+"Canada",1984,1
+"Canada",1985,1
+"Canada",1986,1
+"Canada",1987,1
+"Canada",1988,1
+"Canada",1989,1
+"Canada",1990,1
+"Canada",1991,1
+"Canada",1992,1
+"Canada",1993,1
+"Canada",1994,1
+"Canada",1995,1
+"Canada",1996,1
+"Canada",1997,1
+"Canada",1998,1
+"Canada",1999,1
+"Chile",1981,1
+"Chile",1982,1
+"Chile",1983,1
+"Chile",1984,1
+"Chile",1985,1
+"Chile",1986,1
+"Chile",1987,1
+"Chile",1988,1
+"Chile",1989,1
+"Chile",1990,1
+"Chile",1991,1
+"Chile",1992,1
+"Chile",1993,1
+"Chile",1994,1
+"Chile",1995,1
+"Chile",1996,1
+"Chile",1997,1
+"Chile",1998,1
+"Chile",1999,1
+"China",1981,1
+"China",1982,1
+"China",1983,1
+"China",1984,1
+"China",1985,1
+"China",1986,1
+"China",1987,1
+"China",1988,1
+"China",1989,1
+"China",1990,1
+"China",1991,1
+"China",1992,1
+"China",1993,1
+"China",1994,1
+"China",1995,1
+"China",1996,1
+"China",1997,1
+"China",1998,1
+"China",1999,1
+"Colombia",1981,1
+"Colombia",1982,1
+"Colombia",1983,1
+"Colombia",1984,1
+"Colombia",1985,1
+"Colombia",1986,1
+"Colombia",1987,1
+"Colombia",1988,1
+"Colombia",1989,1
+"Colombia",1990,1
+"Colombia",1991,1
+"Colombia",1992,1
+"Colombia",1993,1
+"Colombia",1994,1
+"Colombia",1995,1
+"Colombia",1996,1
+"Colombia",1997,1
+"Colombia",1998,1
+"Colombia",1999,1
+"Costa Rica",1981,1
+"Costa Rica",1982,1
+"Costa Rica",1983,1
+"Costa Rica",1984,1
+"Costa Rica",1985,1
+"Costa Rica",1986,1
+"Costa Rica",1987,1
+"Costa Rica",1988,1
+"Costa Rica",1989,1
+"Costa Rica",1990,1
+"Costa Rica",1991,1
+"Costa Rica",1992,1
+"Costa Rica",1993,1
+"Costa Rica",1994,1
+"Costa Rica",1995,1
+"Costa Rica",1996,1
+"Costa Rica",1997,1
+"Costa Rica",1998,1
+"Costa Rica",1999,1
+"Cuba",1981,1
+"Cuba",1982,1
+"Cuba",1983,1
+"Cuba",1984,1
+"Cuba",1985,1
+"Cuba",1986,1
+"Cuba",1987,1
+"Cuba",1988,1
+"Cuba",1989,1
+"Cuba",1990,1
+"Cuba",1991,1
+"Cuba",1992,1
+"Cuba",1993,1
+"Cuba",1994,1
+"Cuba",1995,1
+"Cuba",1996,1
+"Cuba",1997,1
+"Cuba",1998,1
+"Cuba",1999,1
+"Denmark",1981,1
+"Denmark",1982,1
+"Denmark",1983,1
+"Denmark",1984,1
+"Denmark",1985,1
+"Denmark",1986,1
+"Denmark",1987,1
+"Denmark",1988,1
+"Denmark",1989,1
+"Denmark",1990,1
+"Denmark",1991,1
+"Denmark",1992,1
+"Denmark",1993,1
+"Denmark",1994,1
+"Denmark",1995,1
+"Denmark",1996,1
+"Denmark",1997,1
+"Denmark",1998,1
+"Denmark",1999,1
+"Dominican Republic",1981,1
+"Dominican Republic",1982,1
+"Dominican Republic",1983,1
+"Dominican Republic",1984,1
+"Dominican Republic",1985,1
+"Dominican Republic",1986,1
+"Dominican Republic",1987,1
+"Dominican Republic",1988,1
+"Dominican Republic",1989,1
+"Dominican Republic",1990,1
+"Dominican Republic",1991,1
+"Dominican Republic",1992,1
+"Dominican Republic",1993,1
+"Dominican Republic",1994,1
+"Dominican Republic",1995,1
+"Dominican Republic",1996,1
+"Dominican Republic",1997,1
+"Dominican Republic",1998,1
+"Dominican Republic",1999,1
+"Ecuador",1981,1
+"Ecuador",1982,1
+"Ecuador",1983,1
+"Ecuador",1984,1
+"Ecuador",1985,1
+"Ecuador",1986,1
+"Ecuador",1987,1
+"Ecuador",1988,1
+"Ecuador",1989,1
+"Ecuador",1990,1
+"Ecuador",1991,1
+"Ecuador",1992,1
+"Ecuador",1993,1
+"Ecuador",1994,1
+"Ecuador",1995,1
+"Ecuador",1996,1
+"Ecuador",1997,1
+"Ecuador",1998,1
+"Ecuador",1999,1
+"Egypt",1981,1
+"Egypt",1982,1
+"Egypt",1983,1
+"Egypt",1984,1
+"Egypt",1985,1
+"Egypt",1986,1
+"Egypt",1987,1
+"Egypt",1988,1
+"Egypt",1989,1
+"Egypt",1990,1
+"Egypt",1991,1
+"Egypt",1992,1
+"Egypt",1993,1
+"Egypt",1994,1
+"Egypt",1995,1
+"Egypt",1996,1
+"Egypt",1997,1
+"Egypt",1998,1
+"Egypt",1999,1
+"El Salvador",1981,1
+"El Salvador",1982,1
+"El Salvador",1983,1
+"El Salvador",1984,1
+"El Salvador",1985,1
+"El Salvador",1986,1
+"El Salvador",1987,1
+"El Salvador",1988,1
+"El Salvador",1989,1
+"El Salvador",1990,1
+"El Salvador",1991,1
+"El Salvador",1992,1
+"El Salvador",1993,1
+"El Salvador",1994,1
+"El Salvador",1995,1
+"El Salvador",1996,1
+"El Salvador",1997,1
+"El Salvador",1998,1
+"El Salvador",1999,1
+"Ethiopia",1981,1
+"Ethiopia",1982,1
+"Ethiopia",1983,1
+"Ethiopia",1984,1
+"Ethiopia",1985,1
+"Ethiopia",1986,1
+"Ethiopia",1987,1
+"Ethiopia",1988,1
+"Ethiopia",1989,1
+"Ethiopia",1990,1
+"Ethiopia",1991,1
+"Ethiopia",1992,1
+"Ethiopia",1993,1
+"Ethiopia",1994,1
+"Ethiopia",1995,1
+"Ethiopia",1996,1
+"Ethiopia",1997,1
+"Ethiopia",1998,1
+"Ethiopia",1999,1
+"France",1981,1
+"France",1982,1
+"France",1983,1
+"France",1984,1
+"France",1985,1
+"France",1986,1
+"France",1987,1
+"France",1988,1
+"France",1989,1
+"France",1990,1
+"France",1991,1
+"France",1992,1
+"France",1993,1
+"France",1994,1
+"France",1995,1
+"France",1996,1
+"France",1997,1
+"France",1998,1
+"France",1999,1
+"Greece",1981,1
+"Greece",1982,1
+"Greece",1983,1
+"Greece",1984,1
+"Greece",1985,1
+"Greece",1986,1
+"Greece",1987,1
+"Greece",1988,1
+"Greece",1989,1
+"Greece",1990,1
+"Greece",1991,1
+"Greece",1992,1
+"Greece",1993,1
+"Greece",1994,1
+"Greece",1995,1
+"Greece",1996,1
+"Greece",1997,1
+"Greece",1998,1
+"Greece",1999,1
+"Guatemala",1981,1
+"Guatemala",1982,1
+"Guatemala",1983,1
+"Guatemala",1984,1
+"Guatemala",1985,1
+"Guatemala",1986,1
+"Guatemala",1987,1
+"Guatemala",1988,1
+"Guatemala",1989,1
+"Guatemala",1990,1
+"Guatemala",1991,1
+"Guatemala",1992,1
+"Guatemala",1993,1
+"Guatemala",1994,1
+"Guatemala",1995,1
+"Guatemala",1996,1
+"Guatemala",1997,1
+"Guatemala",1998,1
+"Guatemala",1999,1
+"Haiti",1981,1
+"Haiti",1982,1
+"Haiti",1983,1
+"Haiti",1984,1
+"Haiti",1985,1
+"Haiti",1986,1
+"Haiti",1987,1
+"Haiti",1988,1
+"Haiti",1989,1
+"Haiti",1990,1
+"Haiti",1991,1
+"Haiti",1992,1
+"Haiti",1993,1
+"Haiti",1994,1
+"Haiti",1995,1
+"Haiti",1996,1
+"Haiti",1997,1
+"Haiti",1998,1
+"Haiti",1999,1
+"Honduras",1981,1
+"Honduras",1982,1
+"Honduras",1983,1
+"Honduras",1984,1
+"Honduras",1985,1
+"Honduras",1986,1
+"Honduras",1987,1
+"Honduras",1988,1
+"Honduras",1989,1
+"Honduras",1990,1
+"Honduras",1991,1
+"Honduras",1992,1
+"Honduras",1993,1
+"Honduras",1994,1
+"Honduras",1995,1
+"Honduras",1996,1
+"Honduras",1997,1
+"Honduras",1998,1
+"Honduras",1999,1
+"India",1981,1
+"India",1982,1
+"India",1983,1
+"India",1984,1
+"India",1985,1
+"India",1986,1
+"India",1987,1
+"India",1988,1
+"India",1989,1
+"India",1990,1
+"India",1991,1
+"India",1992,1
+"India",1993,1
+"India",1994,1
+"India",1995,1
+"India",1996,1
+"India",1997,1
+"India",1998,1
+"India",1999,1
+"Iran (Islamic Republic of)",1981,1
+"Iran (Islamic Republic of)",1982,1
+"Iran (Islamic Republic of)",1983,1
+"Iran (Islamic Republic of)",1984,1
+"Iran (Islamic Republic of)",1985,1
+"Iran (Islamic Republic of)",1986,1
+"Iran (Islamic Republic of)",1987,1
+"Iran (Islamic Republic of)",1988,1
+"Iran (Islamic Republic of)",1989,1
+"Iran (Islamic Republic of)",1990,1
+"Iran (Islamic Republic of)",1991,1
+"Iran (Islamic Republic of)",1992,1
+"Iran (Islamic Republic of)",1993,1
+"Iran (Islamic Republic of)",1994,1
+"Iran (Islamic Republic of)",1995,1
+"Iran (Islamic Republic of)",1996,1
+"Iran (Islamic Republic of)",1997,1
+"Iran (Islamic Republic of)",1998,1
+"Iran (Islamic Republic of)",1999,1
+"Iraq",1981,1
+"Iraq",1982,1
+"Iraq",1983,1
+"Iraq",1984,1
+"Iraq",1985,1
+"Iraq",1986,1
+"Iraq",1987,1
+"Iraq",1988,1
+"Iraq",1989,1
+"Iraq",1990,1
+"Iraq",1991,1
+"Iraq",1992,1
+"Iraq",1993,1
+"Iraq",1994,1
+"Iraq",1995,1
+"Iraq",1996,1
+"Iraq",1997,1
+"Iraq",1998,1
+"Iraq",1999,1
+"Lebanon",1981,1
+"Lebanon",1982,1
+"Lebanon",1983,1
+"Lebanon",1984,1
+"Lebanon",1985,1
+"Lebanon",1986,1
+"Lebanon",1987,1
+"Lebanon",1988,1
+"Lebanon",1989,1
+"Lebanon",1990,1
+"Lebanon",1991,1
+"Lebanon",1992,1
+"Lebanon",1993,1
+"Lebanon",1994,1
+"Lebanon",1995,1
+"Lebanon",1996,1
+"Lebanon",1997,1
+"Lebanon",1998,1
+"Lebanon",1999,1
+"Liberia",1981,1
+"Liberia",1982,1
+"Liberia",1983,1
+"Liberia",1984,1
+"Liberia",1985,1
+"Liberia",1986,1
+"Liberia",1987,1
+"Liberia",1988,1
+"Liberia",1989,1
+"Liberia",1990,1
+"Liberia",1991,1
+"Liberia",1992,1
+"Liberia",1993,1
+"Liberia",1994,1
+"Liberia",1995,1
+"Liberia",1996,1
+"Liberia",1997,1
+"Liberia",1998,1
+"Liberia",1999,1
+"Luxembourg",1981,1
+"Luxembourg",1982,1
+"Luxembourg",1983,1
+"Luxembourg",1984,1
+"Luxembourg",1985,1
+"Luxembourg",1986,1
+"Luxembourg",1987,1
+"Luxembourg",1988,1
+"Luxembourg",1989,1
+"Luxembourg",1990,1
+"Luxembourg",1991,1
+"Luxembourg",1992,1
+"Luxembourg",1993,1
+"Luxembourg",1994,1
+"Luxembourg",1995,1
+"Luxembourg",1996,1
+"Luxembourg",1997,1
+"Luxembourg",1998,1
+"Luxembourg",1999,1
+"Mexico",1981,1
+"Mexico",1982,1
+"Mexico",1983,1
+"Mexico",1984,1
+"Mexico",1985,1
+"Mexico",1986,1
+"Mexico",1987,1
+"Mexico",1988,1
+"Mexico",1989,1
+"Mexico",1990,1
+"Mexico",1991,1
+"Mexico",1992,1
+"Mexico",1993,1
+"Mexico",1994,1
+"Mexico",1995,1
+"Mexico",1996,1
+"Mexico",1997,1
+"Mexico",1998,1
+"Mexico",1999,1
+"Netherlands",1981,1
+"Netherlands",1982,1
+"Netherlands",1983,1
+"Netherlands",1984,1
+"Netherlands",1985,1
+"Netherlands",1986,1
+"Netherlands",1987,1
+"Netherlands",1988,1
+"Netherlands",1989,1
+"Netherlands",1990,1
+"Netherlands",1991,1
+"Netherlands",1992,1
+"Netherlands",1993,1
+"Netherlands",1994,1
+"Netherlands",1995,1
+"Netherlands",1996,1
+"Netherlands",1997,1
+"Netherlands",1998,1
+"Netherlands",1999,1
+"New Zealand",1981,1
+"New Zealand",1982,1
+"New Zealand",1983,1
+"New Zealand",1984,1
+"New Zealand",1985,1
+"New Zealand",1986,1
+"New Zealand",1987,1
+"New Zealand",1988,1
+"New Zealand",1989,1
+"New Zealand",1990,1
+"New Zealand",1991,1
+"New Zealand",1992,1
+"New Zealand",1993,1
+"New Zealand",1994,1
+"New Zealand",1995,1
+"New Zealand",1996,1
+"New Zealand",1997,1
+"New Zealand",1998,1
+"New Zealand",1999,1
+"Nicaragua",1981,1
+"Nicaragua",1982,1
+"Nicaragua",1983,1
+"Nicaragua",1984,1
+"Nicaragua",1985,1
+"Nicaragua",1986,1
+"Nicaragua",1987,1
+"Nicaragua",1988,1
+"Nicaragua",1989,1
+"Nicaragua",1990,1
+"Nicaragua",1991,1
+"Nicaragua",1992,1
+"Nicaragua",1993,1
+"Nicaragua",1994,1
+"Nicaragua",1995,1
+"Nicaragua",1996,1
+"Nicaragua",1997,1
+"Nicaragua",1998,1
+"Nicaragua",1999,1
+"Norway",1981,1
+"Norway",1982,1
+"Norway",1983,1
+"Norway",1984,1
+"Norway",1985,1
+"Norway",1986,1
+"Norway",1987,1
+"Norway",1988,1
+"Norway",1989,1
+"Norway",1990,1
+"Norway",1991,1
+"Norway",1992,1
+"Norway",1993,1
+"Norway",1994,1
+"Norway",1995,1
+"Norway",1996,1
+"Norway",1997,1
+"Norway",1998,1
+"Norway",1999,1
+"Panama",1981,1
+"Panama",1982,1
+"Panama",1983,1
+"Panama",1984,1
+"Panama",1985,1
+"Panama",1986,1
+"Panama",1987,1
+"Panama",1988,1
+"Panama",1989,1
+"Panama",1990,1
+"Panama",1991,1
+"Panama",1992,1
+"Panama",1993,1
+"Panama",1994,1
+"Panama",1995,1
+"Panama",1996,1
+"Panama",1997,1
+"Panama",1998,1
+"Panama",1999,1
+"Paraguay",1981,1
+"Paraguay",1982,1
+"Paraguay",1983,1
+"Paraguay",1984,1
+"Paraguay",1985,1
+"Paraguay",1986,1
+"Paraguay",1987,1
+"Paraguay",1988,1
+"Paraguay",1989,1
+"Paraguay",1990,1
+"Paraguay",1991,1
+"Paraguay",1992,1
+"Paraguay",1993,1
+"Paraguay",1994,1
+"Paraguay",1995,1
+"Paraguay",1996,1
+"Paraguay",1997,1
+"Paraguay",1998,1
+"Paraguay",1999,1
+"Peru",1981,1
+"Peru",1982,1
+"Peru",1983,1
+"Peru",1984,1
+"Peru",1985,1
+"Peru",1986,1
+"Peru",1987,1
+"Peru",1988,1
+"Peru",1989,1
+"Peru",1990,1
+"Peru",1991,1
+"Peru",1992,1
+"Peru",1993,1
+"Peru",1994,1
+"Peru",1995,1
+"Peru",1996,1
+"Peru",1997,1
+"Peru",1998,1
+"Peru",1999,1
+"Philippines",1981,1
+"Philippines",1982,1
+"Philippines",1983,1
+"Philippines",1984,1
+"Philippines",1985,1
+"Philippines",1986,1
+"Philippines",1987,1
+"Philippines",1988,1
+"Philippines",1989,1
+"Philippines",1990,1
+"Philippines",1991,1
+"Philippines",1992,1
+"Philippines",1993,1
+"Philippines",1994,1
+"Philippines",1995,1
+"Philippines",1996,1
+"Philippines",1997,1
+"Philippines",1998,1
+"Philippines",1999,1
+"Poland",1981,1
+"Poland",1982,1
+"Poland",1983,1
+"Poland",1984,1
+"Poland",1985,1
+"Poland",1986,1
+"Poland",1987,1
+"Poland",1988,1
+"Poland",1989,1
+"Poland",1990,1
+"Poland",1991,1
+"Poland",1992,1
+"Poland",1993,1
+"Poland",1994,1
+"Poland",1995,1
+"Poland",1996,1
+"Poland",1997,1
+"Poland",1998,1
+"Poland",1999,1
+"Russian Federation",1981,1
+"Russian Federation",1982,1
+"Russian Federation",1983,1
+"Russian Federation",1984,1
+"Russian Federation",1985,1
+"Russian Federation",1986,1
+"Russian Federation",1987,1
+"Russian Federation",1988,1
+"Russian Federation",1989,1
+"Russian Federation",1990,1
+"Russian Federation",1991,1
+"Russian Federation",1992,1
+"Russian Federation",1993,1
+"Russian Federation",1994,1
+"Russian Federation",1995,1
+"Russian Federation",1996,1
+"Russian Federation",1997,1
+"Russian Federation",1998,1
+"Russian Federation",1999,1
+"Saudi Arabia",1981,1
+"Saudi Arabia",1982,1
+"Saudi Arabia",1983,1
+"Saudi Arabia",1984,1
+"Saudi Arabia",1985,1
+"Saudi Arabia",1986,1
+"Saudi Arabia",1987,1
+"Saudi Arabia",1988,1
+"Saudi Arabia",1989,1
+"Saudi Arabia",1990,1
+"Saudi Arabia",1991,1
+"Saudi Arabia",1992,1
+"Saudi Arabia",1993,1
+"Saudi Arabia",1994,1
+"Saudi Arabia",1995,1
+"Saudi Arabia",1996,1
+"Saudi Arabia",1997,1
+"Saudi Arabia",1998,1
+"Saudi Arabia",1999,1
+"South Africa",1981,1
+"South Africa",1982,1
+"South Africa",1983,1
+"South Africa",1984,1
+"South Africa",1985,1
+"South Africa",1986,1
+"South Africa",1987,1
+"South Africa",1988,1
+"South Africa",1989,1
+"South Africa",1990,1
+"South Africa",1991,1
+"South Africa",1992,1
+"South Africa",1993,1
+"South Africa",1994,1
+"South Africa",1995,1
+"South Africa",1996,1
+"South Africa",1997,1
+"South Africa",1998,1
+"South Africa",1999,1
+"Syrian Arab Republic",1981,1
+"Syrian Arab Republic",1982,1
+"Syrian Arab Republic",1983,1
+"Syrian Arab Republic",1984,1
+"Syrian Arab Republic",1985,1
+"Syrian Arab Republic",1986,1
+"Syrian Arab Republic",1987,1
+"Syrian Arab Republic",1988,1
+"Syrian Arab Republic",1989,1
+"Syrian Arab Republic",1990,1
+"Syrian Arab Republic",1991,1
+"Syrian Arab Republic",1992,1
+"Syrian Arab Republic",1993,1
+"Syrian Arab Republic",1994,1
+"Syrian Arab Republic",1995,1
+"Syrian Arab Republic",1996,1
+"Syrian Arab Republic",1997,1
+"Syrian Arab Republic",1998,1
+"Syrian Arab Republic",1999,1
+"Turkey",1981,1
+"Turkey",1982,1
+"Turkey",1983,1
+"Turkey",1984,1
+"Turkey",1985,1
+"Turkey",1986,1
+"Turkey",1987,1
+"Turkey",1988,1
+"Turkey",1989,1
+"Turkey",1990,1
+"Turkey",1991,1
+"Turkey",1992,1
+"Turkey",1993,1
+"Turkey",1994,1
+"Turkey",1995,1
+"Turkey",1996,1
+"Turkey",1997,1
+"Turkey",1998,1
+"Turkey",1999,1
+"Ukraine",1981,1
+"Ukraine",1982,1
+"Ukraine",1983,1
+"Ukraine",1984,1
+"Ukraine",1985,1
+"Ukraine",1986,1
+"Ukraine",1987,1
+"Ukraine",1988,1
+"Ukraine",1989,1
+"Ukraine",1990,1
+"Ukraine",1991,1
+"Ukraine",1992,1
+"Ukraine",1993,1
+"Ukraine",1994,1
+"Ukraine",1995,1
+"Ukraine",1996,1
+"Ukraine",1997,1
+"Ukraine",1998,1
+"Ukraine",1999,1
+"United Kingdom of Great Britain and Northern Ireland",1981,1
+"United Kingdom of Great Britain and Northern Ireland",1982,1
+"United Kingdom of Great Britain and Northern Ireland",1983,1
+"United Kingdom of Great Britain and Northern Ireland",1984,1
+"United Kingdom of Great Britain and Northern Ireland",1985,1
+"United Kingdom of Great Britain and Northern Ireland",1986,1
+"United Kingdom of Great Britain and Northern Ireland",1987,1
+"United Kingdom of Great Britain and Northern Ireland",1988,1
+"United Kingdom of Great Britain and Northern Ireland",1989,1
+"United Kingdom of Great Britain and Northern Ireland",1990,1
+"United Kingdom of Great Britain and Northern Ireland",1991,1
+"United Kingdom of Great Britain and Northern Ireland",1992,1
+"United Kingdom of Great Britain and Northern Ireland",1993,1
+"United Kingdom of Great Britain and Northern Ireland",1994,1
+"United Kingdom of Great Britain and Northern Ireland",1995,1
+"United Kingdom of Great Britain and Northern Ireland",1996,1
+"United Kingdom of Great Britain and Northern Ireland",1997,1
+"United Kingdom of Great Britain and Northern Ireland",1998,1
+"United Kingdom of Great Britain and Northern Ireland",1999,1
+"United States of America",1981,1
+"United States of America",1982,1
+"United States of America",1983,1
+"United States of America",1984,1
+"United States of America",1985,1
+"United States of America",1986,1
+"United States of America",1987,1
+"United States of America",1988,1
+"United States of America",1989,1
+"United States of America",1990,1
+"United States of America",1991,1
+"United States of America",1992,1
+"United States of America",1993,1
+"United States of America",1994,1
+"United States of America",1995,1
+"United States of America",1996,1
+"United States of America",1997,1
+"United States of America",1998,1
+"United States of America",1999,1
+"Uruguay",1981,1
+"Uruguay",1982,1
+"Uruguay",1983,1
+"Uruguay",1984,1
+"Uruguay",1985,1
+"Uruguay",1986,1
+"Uruguay",1987,1
+"Uruguay",1988,1
+"Uruguay",1989,1
+"Uruguay",1990,1
+"Uruguay",1991,1
+"Uruguay",1992,1
+"Uruguay",1993,1
+"Uruguay",1994,1
+"Uruguay",1995,1
+"Uruguay",1996,1
+"Uruguay",1997,1
+"Uruguay",1998,1
+"Uruguay",1999,1
+"Venezuela (Bolivarian Republic of)",1981,1
+"Venezuela (Bolivarian Republic of)",1982,1
+"Venezuela (Bolivarian Republic of)",1983,1
+"Venezuela (Bolivarian Republic of)",1984,1
+"Venezuela (Bolivarian Republic of)",1985,1
+"Venezuela (Bolivarian Republic of)",1986,1
+"Venezuela (Bolivarian Republic of)",1987,1
+"Venezuela (Bolivarian Republic of)",1988,1
+"Venezuela (Bolivarian Republic of)",1989,1
+"Venezuela (Bolivarian Republic of)",1990,1
+"Venezuela (Bolivarian Republic of)",1991,1
+"Venezuela (Bolivarian Republic of)",1992,1
+"Venezuela (Bolivarian Republic of)",1993,1
+"Venezuela (Bolivarian Republic of)",1994,1
+"Venezuela (Bolivarian Republic of)",1995,1
+"Venezuela (Bolivarian Republic of)",1996,1
+"Venezuela (Bolivarian Republic of)",1997,1
+"Venezuela (Bolivarian Republic of)",1998,1
+"Venezuela (Bolivarian Republic of)",1999,1
